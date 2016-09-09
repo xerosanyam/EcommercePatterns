@@ -1,4 +1,4 @@
-# E-Commerce Apis in India
+# E-Commerce APIs in India
 This repository contains:  
 * Variations & Parameters in APIs of Ecommerce websites for thier Image CDN.  
 These help in building correct URL to fetch optimal size of image for different form factors, which results in less use of bandwidth & memory.
