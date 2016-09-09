@@ -54,4 +54,4 @@ http://static1.jassets.com/p/Biba-Navy-Blue-Printed-Salwar-Kameez-Dupatta-6576-6
 
 ## Summary
 * Flipkart and Amazon are flexible in Sizes, i.e they can output many size images.  
-* Nobody directly provides variants(Different Angles, Pattern) of Images excepet Jabong.
+* Nobody directly provides variants(Different Angles, Pattern) of Images except Jabong.
