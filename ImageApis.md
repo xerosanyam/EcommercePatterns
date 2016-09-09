@@ -7,7 +7,6 @@ http://n4.sdlcdn.com/imgs/c/c/v/Puma-Black-Cotton-White-Black-SDL447081488-1-daf
 
 * Variety: Not Possible
 
----------------------------------------------
 
 ## Flipkart:
 * MAX: 832x832; Flexible
@@ -18,7 +17,6 @@ http://img.fkcdn.com/image/t-shirt/w/k/a/56346206white-puma-xl-[210x258]-imaddb5
 
 * Variety: Not Possible
 
------------------------------------------------
 
 ## Amazon:
 * Size: Flexible
@@ -40,7 +38,6 @@ http://ecx.images-amazon.com/images/I/519SgX2wwDL.[AC]_[SL258]_[FMwebp]_[QL1000]
 http://ecx.images-amazon.com/images/I/41ExLM9xz8L._UY500_.jpg  
 http://ecx.images-amazon.com/images/I/41YTy6oCIIL._UY500_.jpg
 
--------------------------------------------------------------------
 
 ## Jabong:
 * Size: Inflexible
@@ -54,8 +51,7 @@ http://static4.jassets.com/p/Next-Formal-Shirt-6825-4311453-1-pdp_slider_[xxs].j
 * Variety: 1..8  
 http://static1.jassets.com/p/Biba-Navy-Blue-Printed-Salwar-Kameez-Dupatta-6576-6830962-[8]-catalog_xs.jpg
 
---------------------------
 
-### Summary
+## Summary
 * Flipkart and Amazon are flexible in Sizes, i.e they can output many size images.  
 * Nobody directly provides variants(Different Angles, Pattern) of Images excepet Jabong.
